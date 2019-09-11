@@ -1,17 +1,19 @@
 body {
-  background-color: powderblue;
+  background-color: #E6E6FA;
+  font-family: "Palatino Linotype";
 }
 h1 {
   color: blue;
+  background-color: ##FAF0E6
+  border: 1px solid #483D8B;
 }
 p {
   color: red;
-  border: 1px solid powderblue;
   padding: 30px;
   margin: 50px;
 }
 #top {
-    background-color: #ccc;
+    background-color: #FFB6C1;
     padding: 20px
     }
 
