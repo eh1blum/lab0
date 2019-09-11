@@ -40,4 +40,9 @@ p {
 
     .special_ul li img , .special_ul li a{
         display:block;
+        margin: 0 auto;
+    }
+
+    .carousel-inner > .item > img {
+  margin: 0 auto;
     }
