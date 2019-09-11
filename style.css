@@ -15,7 +15,15 @@ p {
     padding: 20px
     }
 
-.fancy {
-    font-weight: bold;
-    text-shadow: 4px 4px 3px #77f;
+.button {
+      color: #FFF;
+      background-color: #5995DA;
+      font-weight: bold;
+      padding: 20px;
+      text-align: center;
+      border: 2px solid #5D6063;
+      border-radius: 5px;
+
+      width: 200px;
+      margin: 20px auto;
     }
