@@ -3,7 +3,7 @@ body {
   font-family: "Didot";
 }
 h1 {
-  color: #FADB3E;
+  color: #FFB6C1;
   background-color: ##FAF0E6
   border: 1px solid #483D8B;
 }
@@ -13,7 +13,7 @@ p {
   margin: 50px;
 }
 #top {
-    background-color: #FFB6C1;
+    background-color: #FADB3E;
     padding: 20px
     }
 
@@ -28,4 +28,11 @@ p {
 
       width: 200px;
       margin: 20px auto;
+    }
+
+.center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
     }
